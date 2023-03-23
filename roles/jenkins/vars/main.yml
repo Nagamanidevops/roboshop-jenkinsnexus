@@ -1,10 +1,10 @@
 pipeline_jobs:
-  - {name: "frontend", dir: "CIPipelines1"}
-  - {name: "cart", dir: "CIPipelines1"}
-  - {name: "catalogue", dir: "CIPipelines1"}
-  - {name: "user", dir: "CIPipeline1"}
-  - {name: "payment", dir: "CIPipeline1"}
-  - {name: "shipping", dir: "CIPipeline1"}
+  - {name: "frontend", dir: "CIPipelines"}
+  - {name: "cart", dir: "CIPipelines"}
+  - {name: "catalogue", dir: "CIPipelines"}
+  - {name: "user", dir: "CIPipelines"}
+  - {name: "payment", dir: "CIPipelines"}
+  - {name: "shipping", dir: "CIPipelines"}
 
 folders:
-  - CIPipelines1
+  - CIPipelinesnew
